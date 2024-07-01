@@ -3,10 +3,10 @@
 ![Screenshot 2024-07-02 013236](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/49edf550-c7a0-4515-a700-7d2b353df7f9)
 ![Screenshot 2024-07-02 013259](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/e40b2ace-ef83-4904-bf26-84eeaaef900f)
 ![Screenshot 2024-07-02 013314](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/f092a6c5-7157-48b7-a527-01362cbfab07)
-![Screenshot 2024-07-02 013335](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/36f8f48b-bb4f-41a5-9fda-ccda97b3dfd6)
+
 ![Screenshot 2024-07-02 013346](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/952a7f7d-2d76-419f-9e54-464b12e47eb5)
 ![Screenshot 2024-07-02 013426](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/07d3b63e-c895-45ea-9938-eb5bab892d2c)
-![Screenshot 2024-07-02 013443](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/01cb63a7-d6d2-4c2a-913c-5732d3c01e6b)
+
 ![Screenshot 2024-07-02 013456](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/5cc6692f-9070-4d12-a1d3-a56c162802fd)
 ![Screenshot 2024-07-02 013507](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/8aacc28d-b256-49e6-b77d-b8fce012f15c)
 ![Screenshot 2024-07-02 013526](https://github.com/Shashi2742/ATM-Transaction-Simulator/assets/124014801/44eaee58-80e1-40b4-b59d-0425fce6c0bb)
